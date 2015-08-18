@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Euler.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Euler_Metal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Euler_Swift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>49DD6A9B1B82CD83002D5CD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>49DD6AAC1B82CD83002D5CD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>49DD6AC01B82D07D002D5CD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>49DD6AD21B82D088002D5CD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
